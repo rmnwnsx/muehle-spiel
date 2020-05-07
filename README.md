@@ -1,2 +1,2 @@
-# muehle-spiel
-Simple mill (Nine men's morris) game.
+# Mühle Spiel
+This is simple mill (Nine men's morris) game.
